@@ -31,19 +31,20 @@
 </p>
 
 
-## Installation
+## HOW TO USE
 
 ```console
 # WELCOME QUIZZERS
-# TYPE THE FOLLOWING COMMAND TO INSTALL THE PROGRAM x
+# Type the following instruction in the black box in the bottom left to install
 $ python3 -m pip install -r requirements.txt
 
-# To use the tool, type:
+# To use the tool, type in the black box:
 $ python3 sherlock -h
 
 ```
 
 
+## Ignore This :)
 [![Open in Cloud Shell](https://user-images.githubusercontent.com/27065646/92304704-8d146d80-ef80-11ea-8c29-0deaabb1c702.png)](https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/harold-williams/sherlock&tutorial=README.md)
 
 ## License
