@@ -4,6 +4,6 @@ __./setup__
 and then hit enter
 
 To use the tool, type in the same black box:
-__./finduser__
+__./findusername__
 
-We are trying to track down ???
+We are trying to track down __omarhoverhandsgelbaya__
