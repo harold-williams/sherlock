@@ -1,4 +1,6 @@
 ## WELCOME QUIZZERS
+I have created a tool which search all social media pages for a specific username
+
 Type the following: __./setup__ 
 in the black box in the bottom left and then hit enter
 
