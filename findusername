@@ -1,5 +1,6 @@
 #!/bin/bash
-echo "Hello, give me a username, I will search all of social media for them\nWho are we after?"
+echo "Hello, give me a username, I will search all of social media for them"
+echo "Who are we after?"
 
 read varname
 
