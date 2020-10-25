@@ -1,0 +1,6 @@
+#!/bin/bash
+echo "Hello, who are we after?"
+
+read varname
+
+python3 sherlock $varname
